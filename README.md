@@ -1,7 +1,8 @@
 # concrete-strength-predict
 concrete strength predict by different algorithm model and compare the outcome
 
-Models being used
+Models being used\
+\
 Random Forest\
 Random Forest Regressor k_fold\
 Gradient Boost Regressor\
