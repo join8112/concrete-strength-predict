@@ -1,7 +1,7 @@
 # concrete-strength-predict
 concrete strength predict by different algorithm model and compare the outcome
 
-##models being used
+Models being used
 Random Forest\
 Random Forest Regressor k_fold\
 Gradient Boost Regressor\
@@ -18,4 +18,4 @@ XGBoost Regressor\
 XGBoost Regressor k fold\
 Decision Tree Regressor\
 Decision Tree Regressor k fold\
-\
+
