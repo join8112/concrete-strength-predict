@@ -1,5 +1,5 @@
 # concrete-strength-predict
-concrete strength predict by different algorithm model and compare the outcome
+Concrete strength predict by different algorithm models and compare the outcome
 
 Models being used\
 \
